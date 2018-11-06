@@ -1,0 +1,6 @@
+create a python function to validate a login system which accepts a password of not lesss than
+8 characters and hence implement a python calculator
+
+N/B
+
+Input from the User
